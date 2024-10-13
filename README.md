@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elsayad</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working as **Junior Front-end Devloper**
+- 🔭 I’m currently working as **Front-end Devloper**
 
 - 👯 I’m looking to collaborate on **Mern Stack Projects**
 
